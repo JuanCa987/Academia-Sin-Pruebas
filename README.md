@@ -69,3 +69,5 @@ Juan Camilo ausecha https://github.com/JuanCa987/Academia
 
 ## subir el trabajo, no lo estaba subiendo, prueba 2
 MMMMMMMMMMMM
+
+## Subida de academia sin pruebas
